@@ -1,18 +1,25 @@
-## Getting Started
+## <div align="center"> :o::x: TICTACTOE GAME :x::o: </div>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<div align="center">
+  
+![image](https://github.com/bwubbu/TicTacToeGame/assets/101506741/b9e46c96-db6b-4faa-95b2-26ea6a3aa8cf)
 
-## Folder Structure
+</div>
 
-The workspace contains two folders by default, where:
+<div align="center">
+  
+![image](https://github.com/bwubbu/TicTacToeGame/assets/101506741/f449c019-1ec6-4fc9-b341-073178e11f53)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+</div>
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+<div align="center">
+  
+![image](https://github.com/bwubbu/TicTacToeGame/assets/101506741/7a08699d-bb54-47f5-9f8b-21bd9ac14dc3)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+</div>
 
-## Dependency Management
+<div align="center">
+  
+![image](https://github.com/bwubbu/TicTacToeGame/assets/101506741/a8c7dd0c-cd15-4613-99ab-49a4f6541628)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+</div>
